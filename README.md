@@ -3,5 +3,5 @@
 qnt  itens
 3    ovos
 500g farinha
-1l   água
+1L   água
 20g  fermento
